@@ -1,31 +1,31 @@
 @import url(https://fonts.googleapis.com/css2?family=Bangers&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;&display=swap);
 
-body{
-   font-family:'Bangers';
+body {
+  font-family: 'Bangers';
 }
 
-.header-container{ 
+.header-container {
   height: 100vh;
   width: 100vw;
   background-color: #8DEC96;
-  background-image: url(Imagens/2022-11-15_18-12.png); 
+  background-image: url(Imagens/2022-11-15_18-12.png);
   background-repeat: no-repeat;
   background-position: right;
   background-size: contain;
 }
 
-.header-container1{ 
+.header-container1 {
   height: 100vh;
   width: 100vw;
   background-color: #8DEC96;
-  background-image: url(Imagens/8176fba3d51582d1129d983bb57577a3bc5db0fafa9ee67ac5363fc20d0bdfe4.png); 
+  background-image: url(Imagens/8176fba3d51582d1129d983bb57577a3bc5db0fafa9ee67ac5363fc20d0bdfe4.png);
   background-repeat: no-repeat;
   background-position: right;
   background-size: contain;
 }
 
-h1{
+h1 {
   position: absolute;
   width: min-content;
   height: auto;
@@ -42,7 +42,7 @@ h1{
   text-shadow: 0px 4px 4px #000000;
 }
 
-h2{
+h2 {
   position: absolute;
   width: auto;
   height: auto;
@@ -56,7 +56,7 @@ h2{
   text-align: right;
   text-transform: uppercase;
   color: #FFFFFF;
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .social-media {
@@ -66,12 +66,12 @@ h2{
   position: absolute;
   top: 90%;
   left: 18%;
-  font-size: larger; 
+  font-size: larger;
 }
 
 .social-media a {
   text-decoration: none;
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 1); 
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 1);
   color: #FFFFFF;
   background-color: #46E6E6;
   padding: 1rem 4rem;
@@ -82,7 +82,8 @@ h2{
   justify-content: center;
   transition: .5s ease-in-out;
 }
-a:hover{
+
+a:hover {
   background-color: #000000;
 }
 
@@ -95,15 +96,15 @@ a:hover{
   margin: 3rem 0;
 }
 
-h3{
+h3 {
   text-transform: uppercase;
   letter-spacing: 4px;
   color: #FFFFFF;
-  text-shadow: 0px 6px 6px rgba(0, 0, 0, 1); 
+  text-shadow: 0px 6px 6px rgba(0, 0, 0, 1);
 }
 
-.card-container{
-  display:flex;
+.card-container {
+  display: flex;
   justify-content: space-evenly;
   align-items: center;
   width: 90%;
@@ -129,7 +130,7 @@ h3{
   transition: 0.5s ease-in-out;
 }
 
-.card1{
+.card1 {
   width: 300px;
   height: 300px;
   border-radius: 100%;
@@ -148,7 +149,7 @@ h3{
   transition: 0.5s ease-in-out;
 }
 
-.card2{
+.card2 {
   width: 300px;
   height: 300px;
   border-radius: 100%;
@@ -168,12 +169,12 @@ h3{
   transition: 0.5s ease-in-out;
 }
 
-h4{
+h4 {
   text-transform: uppercase;
   letter-spacing: 4px;
   font-size: 20px;
   color: #000000;
-  text-shadow: 0px 6px 6px rgba(0, 0, 0, 1); 
+  text-shadow: 0px 6px 6px rgba(0, 0, 0, 1);
 }
 
 .card-text {
@@ -181,10 +182,10 @@ h4{
   letter-spacing: 1px;
   color: rgb(109, 109, 109);
   text-align: justify;
-  
+
 }
 
-.card-wrapper{
+.card-wrapper {
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -193,7 +194,7 @@ h4{
   position: relative;
 }
 
-.card-wrapper2{
+.card-wrapper2 {
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -202,7 +203,7 @@ h4{
   position: relative;
 }
 
-.card-wrapper::before{
+.card-wrapper::before {
   content: '';
   position: absolute;
   height: 100px;
@@ -214,7 +215,7 @@ h4{
   transition: 0.5 ease-in-out;
 }
 
-.card-wrapper2::before{
+.card-wrapper2::before {
   content: '';
   position: absolute;
   height: 100px;
@@ -226,7 +227,7 @@ h4{
   transition: 0.5 ease-in-out;
 }
 
-.card-wrapper h3{
+.card-wrapper h3 {
   font-size: 40px;
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -234,7 +235,7 @@ h4{
   transition: 0.5 ease-in-out;
 }
 
-.card-wrapper2 h3{
+.card-wrapper2 h3 {
   font-size: 40px;
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -260,39 +261,39 @@ h4{
   transition: 0.5s ease-in-out;
 }
 
-.card:hover{
+.card:hover {
   filter: unset;
 }
 
-.card2:hover{
+.card2:hover {
   filter: unset;
 }
 
-.card:hover > .card-wrapper::before {
+.card:hover>.card-wrapper::before {
   height: 300px;
   width: 300px;
   opacity: 1;
 }
 
-.card2:hover > .card-wrapper2::before {
+.card2:hover>.card-wrapper2::before {
   height: 300px;
   width: 300px;
   opacity: 1;
 }
 
-.card:hover > .card-wrapper p{
+.card:hover>.card-wrapper p {
   opacity: 1;
   visibility: visible;
   font-size: 25px;
 }
 
-.card2:hover > .card-wrapper2 p{
+.card2:hover>.card-wrapper2 p {
   opacity: 1;
   visibility: visible;
   font-size: 35px;
 }
 
-.button a{
+.button a {
   position: relative;
   width: 10%;
   height: 10%;
@@ -305,7 +306,7 @@ h4{
   text-align: center;
   text-transform: uppercase;
   text-decoration: none;
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 1); 
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 1);
   color: #FFFFFF;
   background-color: #46E6E6;
   padding: 1rem 2rem;
@@ -317,8 +318,8 @@ h4{
   transition: .5s ease-in-out;
 }
 
-a:hover{
-  background-color: #000000;  
+a:hover {
+  background-color: #000000;
 }
 
 .footer {

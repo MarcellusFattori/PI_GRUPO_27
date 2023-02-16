@@ -1,0 +1,9 @@
+.header-container {
+    height: 100vh;
+    width: 100vw;
+    background-color: #8DEC96;
+    background-image: url(Imagens/2022-11-15_18-12.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+  }

@@ -54,8 +54,39 @@ p {
 .cumbuca {
   display: flex;
   position: absolute;
-  margin: 500px 200px;
-  border-radius: 10px;
+  margin-top: 500px;
+  border: none;
+  outline: none;
+}
+
+#img1 {
+  margin-right: 75px;
+  background-color: none;
+  background-image: url("img-pi/7b941b1b6666f3ccb0e6224fa2149340.png");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: none;
+  outline: none;
+}
+
+#img2 {
+  margin-right: 75px;
+  background-image: url("img-pi/19d513a7bff4f1eaa9c71d9ea9eebf5d.png");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: none;
+  outline: none;
+}
+
+#img3 {
+  background-image: url("img-pi/5e8cb1674171b17b8fc0b5c7153d6345.png");
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: none;
+  outline: none;
 }
 
 .texto2 {

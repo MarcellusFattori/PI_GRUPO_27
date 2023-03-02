@@ -56,13 +56,13 @@
   text-transform: uppercase;
   letter-spacing: 2px;
   font-size: 3rem;
-  margin: 30px auto 0;
+  margin: 5px auto 0;
 }
 
 .u-section-1 .u-text-6 {
   font-size: 3rem;
   font-weight: 700;
-  margin: 155px auto 0;
+  margin: 200px auto 0;
 }
 
 .u-section-1 .u-layout-cell-3 {
@@ -1081,5 +1081,12 @@
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+}
 
+.u-text-1:hover, .u-text-2:hover, .u-text-3:hover, .u-text-4:hover {
+  color: darkgoldenrod !important;
+}
+
+.ahover:hover {
+  color: darkgoldenrod !important;
 }

@@ -151,9 +151,14 @@ p {
   line-height: 25px;
 }
 
-.container .imgfornecedores {
+.imgfornecedores {
   display: flex;
   justify-content: space-around;
   position: absolute;
-  right: 100px;
+  top: -30px;
+  left: 960px;
+  width: 600px;
+  height: 800px;
+  transform: rotate(-115.48deg);
+  opacity: 0.5;
 }

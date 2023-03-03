@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rufina&display=swap');
+
 @charset "UTF-8";
 .u-hidden-block {
   visibility: hidden!important;
@@ -724,7 +726,7 @@ ol {
 .u-tab-item a,
 .u-nav-item a {
   font-size: inherit;
-  font-family: inherit;
+  font-family: 'Rufina', serif;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -17245,58 +17247,58 @@ p {
   word-break: break-all;
 }
 .u-font-arial.u-custom-font {
-  font-family: Arial, sans-serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-courier-new.u-custom-font {
-  font-family: 'Courier New', monospace !important;
+  font-family: 'Rufina', serif; !important;
 }
 .u-font-georgia.u-custom-font {
-  font-family: Georgia, serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-roboto.u-custom-font {
-  font-family: Roboto, sans-serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-open-sans.u-custom-font {
-  font-family: 'Open Sans', sans-serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-lato.u-custom-font {
-  font-family: Lato, sans-serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-montserrat.u-custom-font {
-  font-family: Montserrat, sans-serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-roboto-condensed.u-custom-font {
-  font-family: 'Roboto Condensed', sans-serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-source-sans-pro.u-custom-font {
-  font-family: 'Source Sans Pro', sans-serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-oswald.u-custom-font {
-  font-family: Oswald, sans-serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-raleway.u-custom-font {
-  font-family: Raleway, sans-serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-pt-sans.u-custom-font {
-  font-family: 'PT Sans', sans-serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-ubuntu.u-custom-font {
-  font-family: Ubuntu, sans-serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-titillium-web.u-custom-font {
-  font-family: 'Titillium Web', sans-serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-merriweather.u-custom-font {
-  font-family: Merriweather, serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-roboto-slab.u-custom-font {
-  font-family: 'Roboto Slab', serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-playfair-display.u-custom-font {
-  font-family: 'Playfair Display', serif !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-font-lobster.u-custom-font {
-  font-family: Lobster, display !important;
+  font-family: 'Rufina', serif !important;
 }
 .u-rectangle {
   border-radius: 0;

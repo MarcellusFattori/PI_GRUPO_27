@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Rufina&display=swap');
+
 .u-section-1 {
   min-height: 875px;
 }
@@ -26,6 +28,7 @@
 .u-section-1 .u-text-2 {
   font-size: 3.75rem;
   font-weight: normal;
+  font-family: 'Rufina', serif;
   margin: 20px 0 0 92px;
 }
 
@@ -55,12 +58,12 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 3rem;
+  font-size: 4rem;
   margin: 5px auto 0;
 }
 
 .u-section-1 .u-text-6 {
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: 700;
   margin: 200px auto 0;
 }
@@ -280,14 +283,14 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 3rem;
-  margin: 30px auto 0;
+  font-size: 4rem;
+  margin: 5px auto 0;
 }
 
 .u-section-2 .u-text-6 {
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: 700;
-  margin: 155px auto 0;
+  margin: 200px auto 0;
 }
 
 .u-section-2 .u-layout-cell-3 {
@@ -546,14 +549,14 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 3rem;
-  margin: 30px auto 0;
+  font-size: 4rem;
+  margin: 5px auto 0;
 }
 
 .u-section-3 .u-text-6 {
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: 700;
-  margin: 155px auto 0;
+  margin: 200px auto 0;
 }
 
 .u-section-3 .u-layout-cell-3 {
@@ -933,14 +936,14 @@
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 3rem;
-  margin: 30px auto 0;
+  font-size: 4rem;
+  margin: 5px auto 0;
 }
 
 .u-section-4 .u-text-6 {
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: 700;
-  margin: 155px auto 0;
+  margin: 200px auto 0;
 }
 
 .u-section-4 .u-layout-cell-3 {
@@ -1084,9 +1087,9 @@
 }
 
 .u-text-1:hover, .u-text-2:hover, .u-text-3:hover, .u-text-4:hover {
-  color: darkgoldenrod !important;
+  color: #9CAA00 !important;
 }
 
 .ahover:hover {
-  color: darkgoldenrod !important;
+  color: #9CAA00 !important;
 }

@@ -155,10 +155,10 @@ p {
   display: flex;
   justify-content: space-around;
   position: absolute;
-  top: -30px;
-  left: 960px;
+  top: -90px;
+  left: 900px;
   width: 600px;
-  height: 800px;
-  transform: rotate(-115.48deg);
+  height: 900px;
+  transform: rotate(-126.48deg);
   opacity: 0.5;
 }

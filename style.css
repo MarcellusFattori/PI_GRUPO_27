@@ -1105,3 +1105,7 @@
   border-radius: 15%;
   box-shadow: #000;
 }
+
+#divPesquisa {
+  margin-left: 10em;
+}

@@ -11,4 +11,4 @@ André Bruno da Silva
 Larissa Fernanda Ramos Lira
 Lucas Flauzino Cardoso
 Mayara Francielli Rocha Nicacio
-Marcellus Turk Fattori
+Marcellus Turk Fattori 
